@@ -3,3 +3,11 @@ New bar file.
 Bug fix in master.
 
 New line.
+
+1. Use SSH to clone/add remote.
+2. Generate ssk key. (optional if you already have one generated)
+    ssh-keygen -t rsa -b 4096 -C "email_address@example.com"
+(it will ask you for a passphrase)
+3. Add a public key to the github account:
+    cat ~/.ssh/id_rsa.pub
+4. Push or Pull
