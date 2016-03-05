@@ -6,20 +6,7 @@ Who we are
 - Twitter: https://twitter.com/PyLadiesBer
 - GitHub: https://github.com/PyLadiesBerlin/materials
 
-Good old times
-==============
-
-   ReadMe1.txt  
-   ReadMe2.txt  
-   ReadMe3.txt
-
-
-Good old times
-==============
-
-   ReadMe.txt  
-
-But what is git?	
+What is git?	
 ================
 - Open source
 - Fully distributed
