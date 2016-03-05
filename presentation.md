@@ -75,11 +75,11 @@ Let the game begin
 
 Git states & sections
 =====================
-   modified - working directory
-   staged - staging area
-   git add <file_name>
-   committed - .git directory
-   git commit
+   modified - working directory  
+   staged - staging area  
+       - git add <file_name>  
+   committed - .git directory  
+       - git commit
 
 http://www.git-scm.com/book/en/v2/Getting-Started-Git-Basics#The-Three-States
 
