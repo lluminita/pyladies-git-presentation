@@ -139,21 +139,21 @@ You want to work on an existing project?
 
 Useful links
 ============
-Git documentation:
+Git documentation:  
 http://www.git-scm.com/
 
-short guides:
+short guides:  
 https://try.github.io//levels/1/challenges/1  
 https://guides.github.com/
 
-tools for learning about branching:
+tools for learning about branching:  
 http://pcottle.github.io/learnGitBranching/  
 http://onlywei.github.io/explain-git-with-d3/#branch
 
 Repos history visualization
   * gitk
 
-helpful commands (cheat sheet): 
+helpful commands (cheat sheet):  
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
 
