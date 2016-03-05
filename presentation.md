@@ -81,9 +81,7 @@ Git states & sections
    committed - .git directory
    git commit
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-http://www.git-scm.com/book/en/v2/Getting-Started-Git-Basics
+http://www.git-scm.com/book/en/v2/Getting-Started-Git-Basics#The-Three-States
 
 Let the game begin
 ==================
